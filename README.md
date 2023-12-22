@@ -1,5 +1,7 @@
-![Banner](./assets/jarvis_banner_git_dark.png#gh-dark-mode-only)
-![Banner](./assets/jarvis_banner_git_light.png.png#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/jarvis_banner_git_dark.png">
+  <img src="./assets/jarvis_banner_git_light.png">
+</picture>
 
 ## Get Involved
 We welcome contributions from the community to make Project Name even better. Detailed instructions on how to contribute can be found in each individual repository related to the project.
