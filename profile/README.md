@@ -7,7 +7,7 @@
 🚀 With the release of Jarvis v1.0, we'll be making all our repositories public, allowing you to access and contribute to our codebase.
 
 ## Join the Beta Program
-<a href="https://jarvisci.com/beta-sign-up"><img src="./assets/image.png"></a>
+![Jarvis Beta Sign-Up](https://raw.githubusercontent.com/JarvisClient/.github/main/profile/assets/image.png) 
 
 🔥 You don't have to wait to get a taste of Jarvis! You can sign up for our beta program right now at [https://jarvisci.com/beta-sign-up](https://jarvisci.com/beta-sign-up). By joining the beta program, you'll have the opportunity to be one of the first to experience Jarvis and provide valuable feedback to help us improve it.
 
