@@ -1,17 +1,15 @@
-👋 Thank you for visiting our GitHub organization profile. We're excited to have you here!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/jarvis_banner_git_dark.png">
+  <img src="./assets/jarvis_banner_git_light.png">
+</picture>
 
-## About Jarvis
+## Get Involved
+We welcome contributions from the community to make Project Name even better. Detailed instructions on how to contribute can be found in each individual repository related to the project.
 
-🤖 **Jarvis** is currently in development. It's an intelligent automation and CI/CD tool designed to streamline your development workflow.
+## Finding Resources
+For additional project resources, including documentation, guides, and tutorials, please visit our official website at [https://jarvisci.com/developer](https://jarvisci.com/developer)
 
-🚀 With the release of Jarvis v1.0, we'll be making all our repositories public, allowing you to access and contribute to our codebase.
+## Downloading Verified Builds
+To download verified builds of Project Name, please visit our official download page at [jarvisci.com/download](https://jarvisci.com/download). These builds are thoroughly tested and certified for stability and security, ensuring you get a reliable version of our software.
 
-## Join the Beta Program
-![Jarvis Beta Sign-Up](https://raw.githubusercontent.com/JarvisClient/.github/main/profile/assets/image.png) 
-
-🔥 You don't have to wait to get a taste of Jarvis! You can sign up for our beta program right now at [https://jarvisci.com/beta-sign-up](https://jarvisci.com/beta-sign-up). By joining the beta program, you'll have the opportunity to be one of the first to experience Jarvis and provide valuable feedback to help us improve it.
-
-
-🌟 We can't wait to share Jarvis with you and the broader development community. Stay tuned for updates, and thank you for your interest and support!
-
-Happy coding! 🚀👨‍💻👩‍💻
+We appreciate your support and look forward to your contributions to the Project Name community!
