@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/jarvis_banner_git_dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JarvisClient/.github/main/profile/assets/jarvis_banner_git_dark.png">
   <img src="./assets/jarvis_banner_git_light.png">
 </picture>
 
